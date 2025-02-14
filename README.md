@@ -1,10 +1,10 @@
-![Logotipo Manicura Minimalista Blanco y Negro](https://github.com/user-attachments/assets/79e541d9-fbe2-4036-967b-05791846eee0)
+![Logotipo Manicura Minimalista Blanco y Negro](https://github.com/user-attachments/assets/5a6d5f3e-a356-4c29-b700-b3ce79648435)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Angeles Muraña</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hola soy Angeles Muraña</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Angeles Muraña -->
+<!-- ## 👋 &nbsp;Hola soy Angeles Muraña -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
 👨‍💻 &nbsp;Actualmente estoy iniciando mi aprendizaje de formación a una licenciatura .\
 💡 &nbsp;Me gusta aprender nuevas cosas a fondo, como tips que te facilitan el trbajo, estudio o vida cotidiana.\
@@ -16,7 +16,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Pila de tecnología
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -35,15 +35,14 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
-
+### 🗃 &nbsp;Bases de datos
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Control de versiones y herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -62,7 +61,7 @@
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)&nbsp;
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Análisis de GitHub
 
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
